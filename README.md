@@ -1,6 +1,11 @@
+
+<div align="center">
+
 # 👋 Hi, I'm Balakumar
 
 ### 💼 **Data Engineer | Spark & Databricks Specialist | Cloud Data Pipelines**
+
+</div>
 
 Welcome to my GitHub! I love building scalable, optimized data pipelines that power analytics and business decisions.
 
